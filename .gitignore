@@ -30,3 +30,6 @@ Temporary Items
 
 .idea
 __pycache__
+
+# Environment
+venv/
